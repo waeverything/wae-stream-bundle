@@ -1,5 +1,8 @@
 # WAEverything Stream Bundle
 
+> [!WARNING]
+> This project is now EOL. It has been replaced by https://github.com/waeverything/waecg
+
 This bundle requires NodeCG 1.9.0 or higher!
 
 ## Installation
